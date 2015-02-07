@@ -1,0 +1,6 @@
+C:\Lemon\Personal\Desktop\Sync\VSProjects\RoleTakingSummaryFromAgenda\RoleTakingSummaryFromAgenda\bin\Debug\RoleTakingSummaryFromAgenda.exe.config
+C:\Lemon\Personal\Desktop\Sync\VSProjects\RoleTakingSummaryFromAgenda\RoleTakingSummaryFromAgenda\bin\Debug\RoleTakingSummaryFromAgenda.exe
+C:\Lemon\Personal\Desktop\Sync\VSProjects\RoleTakingSummaryFromAgenda\RoleTakingSummaryFromAgenda\bin\Debug\RoleTakingSummaryFromAgenda.pdb
+C:\Lemon\Personal\Desktop\Sync\VSProjects\RoleTakingSummaryFromAgenda\RoleTakingSummaryFromAgenda\obj\Debug\RoleTakingSummaryFromAgenda.exe
+C:\Lemon\Personal\Desktop\Sync\VSProjects\RoleTakingSummaryFromAgenda\RoleTakingSummaryFromAgenda\obj\Debug\RoleTakingSummaryFromAgenda.pdb
+C:\Lemon\Personal\Desktop\Sync\VSProjects\RoleTakingSummaryFromAgenda\RoleTakingSummaryFromAgenda\obj\Debug\RoleTakingSummaryFromAgenda.csprojResolveAssemblyReference.cache

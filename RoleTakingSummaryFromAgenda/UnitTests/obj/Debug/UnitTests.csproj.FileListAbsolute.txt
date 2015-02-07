@@ -1,0 +1,7 @@
+C:\Lemon\Personal\Desktop\Sync\VSProjects\RoleTakingSummaryFromAgenda\UnitTests\bin\Debug\UnitTests.dll
+C:\Lemon\Personal\Desktop\Sync\VSProjects\RoleTakingSummaryFromAgenda\UnitTests\bin\Debug\UnitTests.pdb
+C:\Lemon\Personal\Desktop\Sync\VSProjects\RoleTakingSummaryFromAgenda\UnitTests\bin\Debug\RoleTakingSummaryFromAgenda.exe
+C:\Lemon\Personal\Desktop\Sync\VSProjects\RoleTakingSummaryFromAgenda\UnitTests\bin\Debug\RoleTakingSummaryFromAgenda.pdb
+C:\Lemon\Personal\Desktop\Sync\VSProjects\RoleTakingSummaryFromAgenda\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Lemon\Personal\Desktop\Sync\VSProjects\RoleTakingSummaryFromAgenda\UnitTests\obj\Debug\UnitTests.dll
+C:\Lemon\Personal\Desktop\Sync\VSProjects\RoleTakingSummaryFromAgenda\UnitTests\obj\Debug\UnitTests.pdb
